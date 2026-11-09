@@ -1,0 +1,7 @@
+.env
+*.xlsx
+*.parquet
+results/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
